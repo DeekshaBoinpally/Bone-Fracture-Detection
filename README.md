@@ -27,7 +27,7 @@ This project focuses on automating the detection and classification of bone frac
    - User-friendly interface for both doctors and patients.
    - High accuracy rates achieved through deep learning models (CNN, YOLO).
 
-###### Architecture
+**Architecture**
 
 The system architecture consists of:
 
