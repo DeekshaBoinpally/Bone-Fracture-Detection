@@ -2,12 +2,12 @@
 ## Table of Contents
 - Introduction
 - Project Scope
-    -Features
-    -Architecture
-    -Technologies Used
-    -Installation
-    -Usage
-   - Results
-   - Testing
-    -Contributors
-    -Future Scope
+- Features
+- Architecture
+- Technologies Used
+- Installation
+- Usage
+- Results
+- Testing
+- Contributors
+- Future Scope
