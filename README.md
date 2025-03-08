@@ -13,11 +13,11 @@
 - Future Scope
 ### Introduction
 
-The Bone Fracture Detection System is a deep learning-based solution designed to assist healthcare professionals in identifying bone fractures through medical imaging. By leveraging Convolutional Neural Networks (CNNs) and object detection models like YOLO, the system aims to enhance diagnostic accuracy and speed.
+- The Bone Fracture Detection System is a deep learning-based solution designed to assist healthcare professionals in identifying bone fractures through medical imaging. By leveraging Convolutional Neural Networks (CNNs) and object detection models like YOLO, the system aims to enhance diagnostic accuracy and speed.
 
 #### Project Scope
 
-This project focuses on automating the detection and classification of bone fractures in X-ray and CT scan images, providing an efficient tool for radiologists to improve diagnostic processes.
+- This project focuses on automating the detection and classification of bone fractures in X-ray and CT scan images, providing an efficient tool for radiologists to improve diagnostic processes.
 
 ##### Features
 
@@ -29,7 +29,7 @@ This project focuses on automating the detection and classification of bone frac
 
 **Architecture**
 
-The system architecture consists of:
+- The system architecture consists of:
 
     - Input Data Acquisition: Medical images from X-ray machines.
     - Preprocessing: Image quality enhancement using Canny edge detection.
@@ -45,7 +45,7 @@ The system architecture consists of:
     - Operating System: Windows 8 or above
    
    **Installation**
-1) Clone the repository:
+- 1) Clone the repository:
 
 git clone https://github.com/yourusername/Bone-Fracture-Detection.git
 
@@ -56,7 +56,7 @@ pip install -r requirements.txt
     Set up the MySQL database and update the connection details in the project files.
 
 **Usage**
-Run the Django server:
+- Run the Django server:
 
 - python manage.py runserver
 
@@ -65,13 +65,13 @@ Run the Django server:
 
 **Results**
 
-The system provides high accuracy for fracture detection:
+- The system provides high accuracy for fracture detection:
 
     - CNN and YOLO models achieved detection rates up to 94%.
     - Improved diagnostic speed and reliability compared to traditional methods.
 
 **Testing**
-Types of Testing Implemented:
+- Types of Testing Implemented:
 
     - Unit Testing: Ensures individual components work as expected.
     - Integration Testing: Checks the interaction between different modules.
@@ -85,7 +85,8 @@ Types of Testing Implemented:
     - B. Deeksha (217R1A05L7)
     - P. Raghava (217R1A05P8)
 
-Under the guidance of Dr. Raj Kumar Patra.
+Under the guidance of **Dr. Raj Kumar Patra.**
+
 **Future Scope**
 
 Potential future enhancements include:
