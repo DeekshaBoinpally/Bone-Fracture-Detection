@@ -36,7 +36,7 @@ The system architecture consists of:
     - Model Processing: Deep learning models analyze images for fracture detection.
     - Detection and Classification: Fractures are localized and classified using trained models.
 
-###### Technologies Used
+**Technologies Used**
 
     - Programming Language: Python (3.7)
     - Frameworks/Libraries: PyTorch, Django, OpenCV, Matplotlib, NumPy
@@ -44,7 +44,7 @@ The system architecture consists of:
     - Deep Learning Models: Convolutional Neural Networks (CNN), YOLO
     - Operating System: Windows 8 or above
    
-   ###### Installation
+   **Installation**
 1) Clone the repository:
 
 git clone https://github.com/yourusername/Bone-Fracture-Detection.git
@@ -55,22 +55,22 @@ pip install -r requirements.txt
 
     Set up the MySQL database and update the connection details in the project files.
 
-###### Usage
+**Usage**
 Run the Django server:
 
 - python manage.py runserver
 
-    - Access the application through your web browser at http://127.0.0.1:8000/index.html.
+    - Access the application through your web browser at http://127.0.0.1:8000/index.html   
     Use the interface to upload X-ray images for fracture detection.
 
-###### Results
+**Results**
 
 The system provides high accuracy for fracture detection:
 
     - CNN and YOLO models achieved detection rates up to 94%.
     - Improved diagnostic speed and reliability compared to traditional methods.
 
-###### Testing
+**Testing**
 Types of Testing Implemented:
 
     - Unit Testing: Ensures individual components work as expected.
@@ -79,14 +79,14 @@ Types of Testing Implemented:
     - System Testing: Ensures the complete system functions correctly.
     - Black Box Testing: Verifies output correctness without knowledge of internal code structure.
 
-###### Contributors
+**Contributors**
 
     - P. Yuktha (217R1A05P6)
     - B. Deeksha (217R1A05L7)
     - P. Raghava (217R1A05P8)
 
 Under the guidance of Dr. Raj Kumar Patra.
-###### Future Scope
+**Future Scope**
 
 Potential future enhancements include:
 
