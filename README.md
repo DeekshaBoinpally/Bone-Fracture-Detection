@@ -1,2 +1,2 @@
-Bone Fracture Detection using Deep Learning
-Table of Contents
+# Bone Fracture Detection using Deep Learning
+## Table of Contents
